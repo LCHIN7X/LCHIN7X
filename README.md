@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 A cybersecurity enthusiast and self-learner.<br><br>✨ Red team<br><br>💡 💡 Open to collaborations on cybersecurity projects and CTF</p>
+<p align="left">👨‍💻 A cybersecurity enthusiast and self-learner.<br><br>🥊🥊 Red team<br><br>💡 💡 Open to collaborations on cybersecurity projects and CTF</p>
 
 ###
 
