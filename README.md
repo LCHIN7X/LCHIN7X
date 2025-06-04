@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to my GitHub👋</h1>
+<h1 align="left">This is Chin👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I’m Chin, a cybersecurity enthusiast and self-learner passionate about building secure systems.<br><br>✨ Thrive on problem-solving and continuously seek to expand my knowledge in cybersecurity and ethical hacking<br><br>🛠️ Exploring Flask and improving my skills in network security and penetration testing.<br><br>📫 How to reach me: lawchinxuan@gmail.com<br><br>💡 💡 Open to collaborations on cybersecurity projects, CTFs, and innovative ideas.<br><br>🎮 Usually explore new tech, play strategy games, and watch cybersecurity documentaries.</p>
+<p align="left">👨‍💻 A cybersecurity enthusiast and self-learner.<br><br>✨ Red team<br><br>💡 💡 Open to collaborations on cybersecurity projects and CTF</p>
 
 ###
 
