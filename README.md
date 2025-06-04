@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Multimedia University Student</p>
+<h3 align="left">Multimedia University Student</h3>
 
 ###
 
