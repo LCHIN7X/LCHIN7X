@@ -1,6 +1,6 @@
-<h1 align="left">This is Chin👋</h1>
+<h1 align="left">This is Chin</h1>
 
-###
+####
 
 <h3 align="left">Multimedia University Student</h3>
 
