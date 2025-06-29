@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Multimedia University Student<br><br>- A cybersecurity enthusiast and self-learner.<br><br>- Red team<br><br>-  Open to collaborations on cybersecurity projects and CTF</p>
+<p align="left">- Cybersecurity enthusiast and self-learner.<br><br>- Red team<br><br>-  Open to collaborations on cybersecurity projects and CTF</p>
 
 ###
 
