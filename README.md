@@ -2,15 +2,7 @@
 
 ###
 
-<h3 align="left">Multimedia University Student</h3>
-
-###
-
-<h2 align="left">💫 About me</h2>
-
-###
-
-<p align="left">👨‍💻 A cybersecurity enthusiast and self-learner.<br><br>🥊 Red team<br><br>💡  Open to collaborations on cybersecurity projects and CTF</p>
+<p align="left">- Multimedia University Student<br><br>- A cybersecurity enthusiast and self-learner.<br><br>- Red team<br><br>-  Open to collaborations on cybersecurity projects and CTF</p>
 
 ###
 
