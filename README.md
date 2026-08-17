@@ -45,7 +45,6 @@
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=LCHIN7X&background=0D1B2A&ring=4DA3FF&fire=4DA3FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)
 
 </div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/LCHIN7X/LCHIN7X/output/snake.svg" alt="Snake animation" />
