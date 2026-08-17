@@ -42,7 +42,7 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LCHIN7X&show_icons=true&bg_color=0D1B2A&title_color=FFFFFF&text_color=FFFFFF&icon_color=4DA3FF)
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=LCHIN7X&background=0D1B2A&ring=4DA3FF&fire=4DA3FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=LCHIN7X&theme=black-ice)
 
 </div>
 
