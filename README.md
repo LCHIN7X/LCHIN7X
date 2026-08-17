@@ -39,8 +39,11 @@
 #####
 
 <div align="center">
- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=CaedusSolo&show_icons=true&theme=radical) <br>
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=CaedusSolo&theme=radical) <br>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LCHIN7X&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=LCHIN7X&theme=radical)
+
 </div>
 
 ###
